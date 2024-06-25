@@ -27,12 +27,12 @@ This is what you will see under `/dev` when using a "clean" micro SD card with o
 <br><br>
 
 And this is what you will see under `/dev` when using a micro SD card **That was formatted by the cam**, with one FAT32 partition.<br>
-Observer how the kernel identifies the micro SD card `mmcblk0` but not listing the partition `mmcblk0p1`:<br>
+Observe how the kernel identifies the micro SD card `mmcblk0` but not listing the partition `mmcblk0p1`:<br>
 
 ![圖片](https://github.com/DrmnSamoLiu/Downgrading-Tapo-Cams/assets/36998819/6d9acf97-721c-45ab-b269-786d74790660)
 
 
-In this case, the micro SD card will be mount at `/tmp/mnt/harddisk_1` on boot and be used as the storage media for video recordings.<br>
+In this case, the micro SD card will be mounted at `/tmp/mnt/harddisk_1` on boot and be used as the storage media for video recordings.<br>
 (Thus not triggering the micro SD card update script.)
 <br>
 
