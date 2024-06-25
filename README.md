@@ -1,4 +1,4 @@
-### I've seen so much people saying they can't perform the "Micro SD card downgrade" with their Tapo cams, so I decide to create this repo to make a more technical guide on how the mechanism work.
+### I've seen so many people saying they can't perform the "Micro SD card downgrade" with their Tapo cams, so I decide to create this repo to make a more technical guide on how the mechanism work.
 -----
 
 ### TL;DR
