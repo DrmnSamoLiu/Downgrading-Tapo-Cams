@@ -58,7 +58,8 @@ Unfortunatelly, it seems this can not be done under GUI of Windows. <br>
 3. Press `Win + R` and run `diskpart`
 4. Follow the steps in the following screenshot. <br>
 ****CHOOSE CAREFULLY WHAT DISK YOU ARE OPERATING ON, these operations will wipe the disk you select!**** <br> <br>
-![圖片](https://github.com/DrmnSamoLiu/Downgrading-Tapo-Cams/assets/36998819/edb2a361-9d2f-4eb3-b5ec-d547e57fb2a6)
+![圖片](https://github.com/DrmnSamoLiu/Downgrading-Tapo-Cams/assets/36998819/e7fcf56e-7735-4117-9943-2ba1e72b1d88)
+
 
 5. You should now have a clean `FAT32` disk with proper partition table.
 6. Copy the firmware you wish to use for down/upgrade to the disk and rename it `factory_up_boot.bin`
