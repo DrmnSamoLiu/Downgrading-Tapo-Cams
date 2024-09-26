@@ -53,6 +53,7 @@ OSX and Linux users should be able to find tools that can perform similar jobs. 
 Unfortunatelly, it seems this can not be done under GUI of Windows. <br>
  There might be some 3rd party software that are capable of doing this, but I'd prefer using native tools that are already in the OS, so I'll use `diskpart` as example:
 
+(Note: `diskpart` cannot create FAT32 partition on storage media larger than 32GB.)
 1. Take your micro SD card from the camera, **backup** whatever is inside that you don't want to lose.
 2. Insert the micro SD card into your Windows PC.
 3. Press `Win + R` and run `diskpart`
